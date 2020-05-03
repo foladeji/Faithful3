@@ -1,0 +1,148 @@
+.container {
+    width: 75%;
+    display: block;
+    margin: auto;
+    align-content: center;
+    margin-top: 50px
+}
+
+.row {
+    display: flex;
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+.image1 {
+    position: relative;
+    height: 150px;
+    right: 400px;
+    top: 200px;
+}
+
+.image2 {
+    position: relative;
+    height: 150px;
+    left: 400px;
+    top: 500px
+}
+
+.image3 {
+    position: relative;
+    height: 150px;
+    right: 400px;
+    top: 500px
+}
+
+.image4 {
+    position: relative;
+    height: 150px;
+    left: 200px;
+    top: 200px
+}
+
+.image5 {
+    position: relative;
+    height: 150px;
+    left: 800px;
+    top: 450px
+}
+
+.image6 {
+    position: relative;
+    height: 150px;
+    right: 100px;
+    top: 450px
+}
+
+.image7 {
+    position: relative;
+    height: 150px;
+    left: 800px;
+    bottom: 200px
+}
+
+.image8 {
+    position: relative;
+    height: 150px;
+    bottom: 400px
+}
+
+.image9 {
+    position: relative;
+    height: 150px;
+    bottom: 600px
+    
+}
+
+.image10 {
+    position: relative;
+    height: 150px;
+    bottom: 300px;
+    right: 200px;
+
+}
+
+.image11 {
+    position: relative;
+    height: 150px;
+    bottom: 200px;
+    left: 300px;
+
+}
+
+.image12 {
+    position: relative;
+    height: 150px;
+    right: 400px;
+    bottom: 300px
+
+}
+
+#im1-1 {
+    height: inherit;
+}
+
+#im1-2 {
+    height: inherit;
+}
+
+#im1-3 {
+    height: inherit;
+}
+
+#im1-4 {
+    height: inherit;
+}
+
+#im1-5 {
+    height: inherit;
+}
+
+#im1-6 {
+    height: inherit;
+}
+
+#im1-7 {
+    height: inherit;
+}
+
+#im1-8 {
+    height: inherit;
+}
+
+#im1-9 {
+    height: inherit;
+}
+
+#im1-10 {
+    height: inherit;
+}
+
+#im1-11 {
+    height: inherit;
+}
+
+#im1-12 {
+    height: inherit;
+}

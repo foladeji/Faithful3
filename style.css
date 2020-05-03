@@ -1,0 +1,6 @@
+.background-image1{
+    width: 1200px;
+    height: 800px;
+    background-image: url(grid-image.jpg);
+    background-size: 100%
+}

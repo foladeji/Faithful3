@@ -1,0 +1,480 @@
+video{
+    width: 100%;
+    resize: both;
+    position: fixed;
+    margin-top: 47px;
+    
+}
+
+.overlay{
+    position: fixed;
+    margin-top: 47px;
+    width: 100%;
+    height: 885;
+    background-color: #001A33;
+    opacity: .2
+}
+
+.header-content{
+    position: relative;
+        top: 40%;
+    z-index: 2;
+    width: 100%;
+    align-items: center;
+    padding: 0 5rem;
+}
+
+.header-content h1 {
+    text-align: center;
+    justify-content: center;
+    font-size: 200;
+    font-weight: 700;
+    color: white;
+    opacity: .8;
+    font-family: Morganite;
+    margin-bottom 0;
+    letter-spacing: 10;
+}
+
+.header-content h5{
+    text-align: center;
+    font-size: 1.23rem;
+    font-family: Montserrat;
+    color: white;
+    display: block;
+    padding bottom: 2rem;
+    margin-top: 30px;
+    margin-left: 10;
+    margin-right: 10;
+    letter-spacing: 23;
+}
+
+#a1{
+	width: 100%; 
+
+}
+
+#a1a{
+    width: 100%;
+    height: 894;
+}
+
+/*----------Section 2-----------*/
+
+#a1b{
+    background-color: white;
+    margin-top: 200;
+    z-index: 1;
+    height: 900px;
+    opacity: 1;
+    box-shadow: 0px 10px 20px -5px rgba(0, 0, 0, 0.7);
+}
+
+#empathic.row{
+    width: 100%;
+    height: 900px;
+    padding: 100 100;
+    margin-left: 0
+    
+}
+
+#s2st{
+    font-family: Montserrat;
+    letter-spacing: 10;
+    font-weight: 600
+}
+
+#s2t{
+    width: 50%;
+    margin-top: 30;
+    font-family: Morganite;
+    font-size: 160px;
+    font-weight: 700;
+    line-height: 125px;
+    letter-spacing: 2;
+}
+
+#s2p.row{
+    margin-left: 0;
+    margin-right: 100;
+    margin-top: 170;
+}
+
+#s2p1{
+    font-family: Roboto;
+    font-size: 15;
+}
+
+#s2p2{
+    font-family: Roboto;
+    font-size: 15;
+}
+
+/*
+#s1p3{
+    margin-bottom: 5;
+    font-family: Roboto;
+    font-size: 10;
+    line-height: 13px;
+}
+
+#s1p4{
+    margin-top: 1;
+    font-family: Roboto;
+    font-size: 10;
+    line-height: 13px;
+}
+*/
+
+#s2c1.col{
+    padding-left: 0;
+}
+
+#s2c2.col{
+    background-image: url(Photographs/Photography/Section%201%20Image.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+/*----------Section 3----------*/
+
+#architecture1{
+    position: absolute;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+#s3t{
+/*    position: absolute;*/
+    width: 1140px;
+    font-family: Montserrat;
+    letter-spacing: 10;
+    font-weight: 600;
+    text-align:center;
+    padding-top: 100;
+}
+
+#s3St{
+    width: 1140px;
+    margin-top: 10;
+    font-family: Morganite;
+    font-size: 100px;
+    font-weight: 800;
+    text-align:center;
+    line-height: 125px;
+    letter-spacing: 2;
+}
+
+#architecture2.row{
+/*
+    background-image: url(ProjectAssets/Graphics/PerspectiveEdited.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: top;
+*/
+    width: 100%;
+    height: 600;
+    padding-top: 100px;
+    padding-bottom: 0;
+    Padding-left:10px;
+    Padding-Right:10px;
+    margin-left: 0;
+    
+}
+
+#architecture3.row{
+    width: 100%;
+    height: 300;
+    padding-top: 50;
+    padding-bottom: 100;
+    Padding-left:200;
+    Padding-Right:200;
+    margin-left: 0
+    
+}
+
+#s3text{
+    text-align: justify;
+    text-align-last: center;
+    text-justify: inter-character;
+    font-family: Roboto;
+    font-size: 15;
+}
+
+/*----------Section 4----------*/
+
+#s4t{
+/*    position: absolute;*/
+    width: 1140px;
+    font-family: Montserrat;
+    letter-spacing: 10;
+    font-weight: 600;
+    text-align:center;
+}
+
+.s1btn-light {
+    color: #212529;
+    background-color: #f8f9fa;
+    border-color: #f8f9fa;
+    text-decoration-line: none;
+    text-decoration: none;
+}
+
+.s1btn {
+    margin-left: 100;
+    text-decoration-line: none;
+    text-decoration: none;
+    margin-right: 100;
+    width: 10rem;
+    margin-top: 35px;
+    box-shadow: 0px 10px 30px -5px rgba(0, 0, 0, 0.2);
+/*    display: inline-block;*/
+    font-family: Roboto;
+    font-weight: 700;
+    text-align: center;
+/*    white-space: nowrap;*/
+    vertical-align: middle;
+/*    user-select: none;*/
+    border: 1px solid;
+    padding: .375rem .75rem;
+    font-size: .9rem;
+    line-height: 1.5;
+    border-radius: .5rem;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+#a1c{
+    background-color: white;
+    margin-top: 200;
+    z-index: 1;
+    height: 1000px;
+    opacity: 1;
+    box-shadow: 0px 10px 20px -5px rgba(0, 0, 0, 0.7);
+}
+
+#s3title.row{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    padding-top: 100;
+    padding-bottom: 50;
+    margin-left: 0; 
+}
+
+#select.row{
+    display: flex;
+    align-content: center;
+    width: 100%;
+    justify-content: center;
+    padding-top: 40;
+    padding-bottom: 20;
+    margin-left: 0; 
+}
+
+#journeys.row{
+    object-position: center;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    padding-left: 100;
+    padding-right: 100;
+    padding-bottom: 0;
+    padding-top: 0;
+    margin-left: 0; 
+}
+
+#Layer_1 {
+  margin-top: 0; 
+  height: 600;
+  position: relative;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* #### Generated By: http://www.cufonfonts.com #### */
+
+@font-face {
+font-family: 'Morganite Book';
+font-style: normal;
+font-weight: normal;
+src: local('Morganite Book'), url('Morganite-Book.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Morganite Book Italic';
+font-style: normal;
+font-weight: normal;
+src: local('Morganite Book Italic'), url('Morganite-BookItalic.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Morganite Thin';
+font-style: normal;
+font-weight: normal;
+src: local('Morganite Thin'), url('Morganite-Thin.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Morganite Thin Italic';
+font-style: normal;
+font-weight: normal;
+src: local('Morganite Thin Italic'), url('Morganite-ThinItalic.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Morganite ExtraLight';
+font-style: normal;
+font-weight: normal;
+src: local('Morganite ExtraLight'), url('Morganite-ExtraLight.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Morganite ExtraLight Italic';
+font-style: normal;
+font-weight: normal;
+src: local('Morganite ExtraLight Italic'), url('Morganite-ExtraLightItalic.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Morganite Light';
+font-style: normal;
+font-weight: normal;
+src: local('Morganite Light'), url('Morganite-Light.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Morganite Light Italic';
+font-style: normal;
+font-weight: normal;
+src: local('Morganite Light Italic'), url('Morganite-LightItalic.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Morganite Medium';
+font-style: normal;
+font-weight: normal;
+src: local('Morganite Medium'), url('Morganite-Medium.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Morganite Medium Italic';
+font-style: normal;
+font-weight: normal;
+src: local('Morganite Medium Italic'), url('Morganite-MediumItalic.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Morganite SemiBold';
+font-style: normal;
+font-weight: normal;
+src: local('Morganite SemiBold'), url('Morganite-SemiBold.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Morganite SemiBold Italic';
+font-style: normal;
+font-weight: normal;
+src: local('Morganite SemiBold Italic'), url('Morganite-SemiBoldItalic.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Morganite Bold';
+font-style: normal;
+font-weight: normal;
+src: local('Morganite Bold'), url('Morganite-Bold.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Morganite Bold Italic';
+font-style: normal;
+font-weight: normal;
+src: local('Morganite Bold Italic'), url('Morganite-BoldItalic.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Morganite ExtraBold';
+font-style: normal;
+font-weight: normal;
+src: local('Morganite ExtraBold'), url('Morganite-ExtraBold.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Morganite ExtraBold Italic';
+font-style: normal;
+font-weight: normal;
+src: local('Morganite ExtraBold Italic'), url('Morganite-ExtraBoldItalic.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Morganite Black';
+font-style: normal;
+font-weight: normal;
+src: local('Morganite Black'), url('Morganite-Black.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Morganite Black Italic';
+font-style: normal;
+font-weight: normal;
+src: local('Morganite Black Italic'), url('Morganite-BlackItalic.woff') format('woff');
+}
